@@ -27,6 +27,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bafa2bcd-8ba4-487b-bbdf-3ccb54a57c8b" name="Default Changelist" comment="exercise4">
+      <change afterPath="$PROJECT_DIR$/Exercise5_1_Kosin_W.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,10 +59,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../desktop-tutorial" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Exercise4_Kosin_W">
+  <component name="RunManager" selected="Python.Exercise5_1_Kosin_W">
     <configuration name="Exercise4_Kosin_W" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cp3-kosin-wangdee" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,6 +76,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise4_Kosin_W.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercise5_1_Kosin_W" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cp3-kosin-wangdee" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise5_1_Kosin_W.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,6 +128,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercise5_1_Kosin_W" />
         <item itemvalue="Python.Exercise4_Kosin_W" />
       </list>
     </recent_temporary>
@@ -160,22 +183,22 @@
       <screen x="0" y="0" width="1093" height="574" />
     </state>
     <state x="327" y="43" key="FileChooserDialogImpl/0.0.1093.574@0.0.1093.574" timestamp="1589121946338" />
-    <state width="1072" height="128" key="GridCell.Tab.0.bottom" timestamp="1589101609022">
+    <state width="1072" height="128" key="GridCell.Tab.0.bottom" timestamp="1589179404731">
       <screen x="0" y="0" width="1093" height="574" />
     </state>
-    <state width="1072" height="128" key="GridCell.Tab.0.bottom/0.0.1093.574@0.0.1093.574" timestamp="1589101609022" />
-    <state width="1072" height="128" key="GridCell.Tab.0.center" timestamp="1589101609022">
+    <state width="1072" height="128" key="GridCell.Tab.0.bottom/0.0.1093.574@0.0.1093.574" timestamp="1589179404731" />
+    <state width="1072" height="128" key="GridCell.Tab.0.center" timestamp="1589179404731">
       <screen x="0" y="0" width="1093" height="574" />
     </state>
-    <state width="1072" height="128" key="GridCell.Tab.0.center/0.0.1093.574@0.0.1093.574" timestamp="1589101609022" />
-    <state width="1072" height="128" key="GridCell.Tab.0.left" timestamp="1589101609022">
+    <state width="1072" height="128" key="GridCell.Tab.0.center/0.0.1093.574@0.0.1093.574" timestamp="1589179404731" />
+    <state width="1072" height="128" key="GridCell.Tab.0.left" timestamp="1589179404731">
       <screen x="0" y="0" width="1093" height="574" />
     </state>
-    <state width="1072" height="128" key="GridCell.Tab.0.left/0.0.1093.574@0.0.1093.574" timestamp="1589101609022" />
-    <state width="1072" height="128" key="GridCell.Tab.0.right" timestamp="1589101609022">
+    <state width="1072" height="128" key="GridCell.Tab.0.left/0.0.1093.574@0.0.1093.574" timestamp="1589179404731" />
+    <state width="1072" height="128" key="GridCell.Tab.0.right" timestamp="1589179404731">
       <screen x="0" y="0" width="1093" height="574" />
     </state>
-    <state width="1072" height="128" key="GridCell.Tab.0.right/0.0.1093.574@0.0.1093.574" timestamp="1589101609022" />
+    <state width="1072" height="128" key="GridCell.Tab.0.right/0.0.1093.574@0.0.1093.574" timestamp="1589179404731" />
     <state x="56" y="0" key="SettingsEditor" timestamp="1589098551157">
       <screen x="0" y="0" width="1093" height="574" />
     </state>
