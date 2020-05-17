@@ -27,7 +27,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bafa2bcd-8ba4-487b-bbdf-3ccb54a57c8b" name="Default Changelist" comment="exercise4">
-      <change afterPath="$PROJECT_DIR$/Lecture104_Kosin_W.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture105_Kosin_W.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +67,7 @@
       <recent name="C:\Users\Administrator\Documents\github\cp3-kosin-wangdee" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lecture104_Kosin_W">
+  <component name="RunManager" selected="Python.Lecture105_Kosin_W">
     <configuration name="Exercise21_Kosin_W" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cp3-kosin-wangdee" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lecture71_Kosin_W" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lecture105_Kosin_W" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cp3-kosin-wangdee" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,7 +122,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture71_Kosin_W.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture105_Kosin_W.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lecture105_Kosin_W" />
         <item itemvalue="Python.Lecture104_Kosin_W" />
         <item itemvalue="Python.Exercise21_Kosin_W" />
         <item itemvalue="Python.Lecture73_Kosin_W" />
         <item itemvalue="Python.Lecture72_Kosin_W" />
-        <item itemvalue="Python.Lecture71_Kosin_W" />
       </list>
     </recent_temporary>
   </component>
@@ -254,22 +254,22 @@
       <screen x="0" y="0" width="1093" height="574" />
     </state>
     <state x="327" y="43" key="FileChooserDialogImpl/0.0.1093.574@0.0.1093.574" timestamp="1589639214868" />
-    <state width="1072" height="128" key="GridCell.Tab.0.bottom" timestamp="1589690312948">
+    <state width="1072" height="128" key="GridCell.Tab.0.bottom" timestamp="1589692279263">
       <screen x="0" y="0" width="1093" height="574" />
     </state>
-    <state width="1072" height="128" key="GridCell.Tab.0.bottom/0.0.1093.574@0.0.1093.574" timestamp="1589690312948" />
-    <state width="1072" height="128" key="GridCell.Tab.0.center" timestamp="1589690312948">
+    <state width="1072" height="128" key="GridCell.Tab.0.bottom/0.0.1093.574@0.0.1093.574" timestamp="1589692279263" />
+    <state width="1072" height="128" key="GridCell.Tab.0.center" timestamp="1589692279263">
       <screen x="0" y="0" width="1093" height="574" />
     </state>
-    <state width="1072" height="128" key="GridCell.Tab.0.center/0.0.1093.574@0.0.1093.574" timestamp="1589690312948" />
-    <state width="1072" height="128" key="GridCell.Tab.0.left" timestamp="1589690312948">
+    <state width="1072" height="128" key="GridCell.Tab.0.center/0.0.1093.574@0.0.1093.574" timestamp="1589692279263" />
+    <state width="1072" height="128" key="GridCell.Tab.0.left" timestamp="1589692279263">
       <screen x="0" y="0" width="1093" height="574" />
     </state>
-    <state width="1072" height="128" key="GridCell.Tab.0.left/0.0.1093.574@0.0.1093.574" timestamp="1589690312948" />
-    <state width="1072" height="128" key="GridCell.Tab.0.right" timestamp="1589690312948">
+    <state width="1072" height="128" key="GridCell.Tab.0.left/0.0.1093.574@0.0.1093.574" timestamp="1589692279263" />
+    <state width="1072" height="128" key="GridCell.Tab.0.right" timestamp="1589692279263">
       <screen x="0" y="0" width="1093" height="574" />
     </state>
-    <state width="1072" height="128" key="GridCell.Tab.0.right/0.0.1093.574@0.0.1093.574" timestamp="1589690312948" />
+    <state width="1072" height="128" key="GridCell.Tab.0.right/0.0.1093.574@0.0.1093.574" timestamp="1589692279263" />
     <state x="56" y="0" key="SettingsEditor" timestamp="1589098551157">
       <screen x="0" y="0" width="1093" height="574" />
     </state>
